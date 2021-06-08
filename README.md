@@ -1,2 +1,2 @@
 # WRAPS
-Code for weather prediction
+Weather and Rain Prediction System. 
